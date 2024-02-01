@@ -24,9 +24,9 @@ img{
     border-style: solid;
     justify-content: center;
     align-items: flex-end;
-    padding: 1rem;
+    padding: 0.5rem;
     margin-left: 15rem;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(214, 232, 14);
 }
 button{
     width: 7rem;
