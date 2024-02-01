@@ -1,0 +1,34 @@
+*{
+    background-color: rgb(15, 16, 16);
+}
+
+.navbar__container{
+    display: flex;
+}
+.name__section{
+    display: flex;
+    padding: 1rem;
+    font-size: 2rem;
+    height: 4rem;
+    width: 70%;
+    margin: 2rem;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: var(--font-family);
+    font-weight: bold;
+    color: rgb(114, 102, 222);
+}
+.navbar__menu{
+    color: azure;
+    height: 1rem;
+    display:flex;
+    width: 50%;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem;
+    cursor:pointer;
+    text-decoration: solid underline;
+    font-size: large;
+}
