@@ -8,7 +8,7 @@ function App() {
     <div className='App'>
       <div className='nav__header'>
       <Navbar />
-      {/* <Header/> */}
+      <Header/>
       </div>
       About
       Services

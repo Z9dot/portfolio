@@ -1,0 +1,43 @@
+.header__section{
+    display: flex;
+    padding: 3rem;
+    font-size: 2rem;
+    text-align: flex-start;
+    color: rgb(177, 215, 38);
+}
+.description{
+    padding: 2rem 0;
+    margin: 2rem 0;
+}
+
+p{
+    font-size: 1.5rem;
+    
+    color: rgb(255, 255, 255);
+    text-align: justify;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    border-style: solid;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 1rem;
+    margin-left: 15rem;
+    background-color: rgb(255, 255, 255);
+}
+button{
+    width: 7rem;
+    height: 2.5rem;
+    color: rgb(191, 191, 196);
+    background-color: rgb(12, 58, 198);
+    margin: 3rem 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    
+}
