@@ -10,9 +10,6 @@ function App() {
       <Navbar />
       <Header/>
       </div>
-      About
-      Services
-      ContactMe
     </div>
   );
 }
