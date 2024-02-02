@@ -1,0 +1,49 @@
+
+.about__section{
+display: flex;
+margin-top: 8rem;
+}
+img{
+    padding: 2rem;
+    margin: 3rem;
+    width: 25rem;
+    height: 25rem;
+
+}
+
+.about__section__description{
+    padding: 2rem;
+    margin: 0 0 3rem 3rem;
+    text-align: justify;
+    width: 60%;
+}
+h1{
+    color: rgb(63, 72, 242);
+    margin-bottom: 1rem;
+}
+h3{
+    color: rgb(255, 255, 255);
+    margin: 2rem 0;
+}
+.my__skills{
+    margin: 3rem 0;
+    color: rgb(255, 255, 255);
+}
+.skills{
+    display: flex;
+    }
+.mern__stack{
+    display: flex;
+}
+
+button{
+    margin: 0.5rem 1rem 0.5rem 0;
+    background-color: rgb(49, 49, 57);
+    color: rgb(255, 255, 255);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    border: none;
+    cursor: pointer;
+    height: 2rem;
+    width: 6rem;
+    font-size: medium;
+}

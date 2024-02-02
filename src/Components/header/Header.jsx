@@ -15,7 +15,7 @@ const Header = () => {
           This is my portfolio site to introduce myself.
         </p>
         <div className="projects__button">
-          <button>My Projects</button>
+          <button className="my__projects__button">My Projects</button>
         </div>
       </div>
       <div className="photo">
