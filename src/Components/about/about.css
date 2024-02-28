@@ -1,7 +1,7 @@
 
 .about__section{
 display: flex;
-margin-top: 8rem;
+background-color: rgb(24, 24, 25);
 }
 img{
     padding: 1rem;

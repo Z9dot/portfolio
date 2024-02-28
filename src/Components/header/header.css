@@ -4,6 +4,8 @@
   font-size: 2rem;
   text-align: flex-start;
   color: rgb(177, 215, 38);
+  background-color: rgb(34, 40, 40);
+  
 }
 .description {
   padding: 2rem 0;
@@ -31,7 +33,7 @@ img {
 .my__projects__button {
   width: 7rem;
   height: 2.5rem;
-  color: rgb(191, 191, 196);
+  color: rgb(255, 255, 255);
   background-color: rgb(12, 58, 198);
   margin: 3rem 0;
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -40,3 +42,5 @@ img {
   cursor: pointer;
   transition: all 0.5s ease-in-out;
 }
+
+

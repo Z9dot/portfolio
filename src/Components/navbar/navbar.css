@@ -1,10 +1,11 @@
-* {
+/* * {
   background-color: rgb(34, 40, 40);
-}
+} */
 
 .navbar__container {
   display: flex;
-  margin-top: 2rem;
+  background-color: rgb(34, 40, 40);
+  padding-top: 2rem;
 }
 .name__section {
   display: flex;
